@@ -15,7 +15,7 @@ public class Armstrongnumber {
         if(res == num)
             System.out.println("The given number is armstrong number" + res + "This is edited by Rio");
         else
-            System.out.println("The given number is not armstrong number");
+            System.out.println("The given number is not armstrong number"+ res+"Edited by mangai");
     }
 
 }
