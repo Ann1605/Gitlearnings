@@ -8,6 +8,7 @@ public class Armstrongnumber {
         System.out.println("Your Entered Number is:"+ num);
         int n = num;
         System.out.println(n);
+        System.out.println("This is sowmi");
         int res =0;
         while(n!=0){
             int rem = n%10;
