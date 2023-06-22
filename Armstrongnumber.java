@@ -6,6 +6,7 @@ public class Armstrongnumber {
         System.out.print("Enter the number");
         int num = sc.nextInt();
         int n = num;
+        System.out.println(n);
         int res =0;
         while(n!=0){
             int rem = n%10;
