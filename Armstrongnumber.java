@@ -11,6 +11,8 @@ public class Armstrongnumber {
         System.out.println(n);
         System.out.println("This is mangai");
         System.out.println("This is sowmi");
+        int number = 100;
+        System.out.println(number);
         int res =0;
         while(n!=0){
             int rem = n%10;
