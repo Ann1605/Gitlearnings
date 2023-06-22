@@ -9,6 +9,7 @@ public class Armstrongnumber {
         int n = num;
         System.out.println(n);
         System.out.println("This is mangai");
+        System.out.println("This is sowmi");
         int res =0;
         while(n!=0){
             int rem = n%10;
