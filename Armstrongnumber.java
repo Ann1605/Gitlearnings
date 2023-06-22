@@ -5,6 +5,7 @@ public class Armstrongnumber {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number");
         int num = sc.nextInt();
+        System.out.println("Your Entered Number is:"+ num);
         int n = num;
         int res =0;
         while(n!=0){
