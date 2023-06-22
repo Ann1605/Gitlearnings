@@ -7,7 +7,9 @@ public class Armstrongnumber {
         int num = sc.nextInt();
         System.out.println("Your Entered Number is:"+ num);
         int n = num;
+        System.out.println("Hellllooooo" + "Hi,This is sow");
         System.out.println(n);
+        System.out.println("This is mangai");
         System.out.println("This is sowmi");
         int res =0;
         while(n!=0){
